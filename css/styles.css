@@ -83,12 +83,15 @@ img {
   margin-right: 77px;
 }
 
+.header .logo-part1 {  
+  line-height: 1.33;
+}
+
 .logo-part1,
 .logo-part2 {
   font-family: "Raleway";
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33;
   letter-spacing: 0.03em;
   text-decoration-line: none;
 }
